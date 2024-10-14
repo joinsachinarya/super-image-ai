@@ -1,0 +1,10 @@
+{
+  "name": "first-extension",
+  "version": "1.0",
+  "description": "Hello world",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "hello-world.html",
+    "default_icon": "jSA.png"
+  }
+}
